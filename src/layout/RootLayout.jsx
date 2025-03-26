@@ -3,7 +3,7 @@ import CategoriesList from "../components/CategoriesList";
 import ProductsList from "../Products/ProductsList";
 import { fetchProducts } from "../services/apiProducts";
 import { useEffect, useState } from "react";
-import Loader from "../../../../Project(FastFood)/fast(finished)/src/ui/Loader";
+import Loader from "../ui/Loader";
 
 const RootLayout = () => {
   const [productsCategories, setProductsCategories] = useState([]);
