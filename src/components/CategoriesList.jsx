@@ -3,36 +3,36 @@ import Category from "./Category";
 import { fetchCategories } from "../services/apiProducts";
 
 const CategoriesList = () => {
-  // const categories = [
-  //   { id: "nike", name: "Nike" },
-  //   { id: "addidas", name: "Addidas" },
-  //   { id: "newBalance", name: "New Balance" },
-  //   { id: "reebook", name: "Reebook" },
-  //   { id: "vans", name: "Vans" },
-  // ];
+  const categories = [
+    { id: "nike", name: "Nike" },
+    { id: "addidas", name: "Addidas" },
+    { id: "newBalance", name: "New Balance" },
+    { id: "reebook", name: "Reebook" },
+    { id: "vans", name: "Vans" },
+  ];
 
-  const [categories, setCategories] = useState([]);
+  // const [categories, setCategories] = useState([]);
   const [activeCategory, setActiveCategory] = useState(null);
 
-  useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const data = await fetchCategories();
-        setCategories(data || []);
-      } catch (error) {
-        console.error("Ошибка загрузки данных:", error);
-        setCategories([]);
-      }
-    };
+  // useEffect(() => {
+  //   const fetchData = async () => {
+  //     try {
+  //       const data = await fetchCategories();
+  //       setCategories(data || []);
+  //     } catch (error) {
+  //       console.error("Ошибка загрузки данных:", error);
+  //       setCategories([]);
+  //     }
+  //   };
 
-    fetchData();
-  }, []);
+  //   fetchData();
+  // }, []);
 
-  useEffect(() => {
-    if (categories.length > 0) {
-      setActiveCategory(categories[0].id);
-    }
-  }, [categories]);
+  // useEffect(() => {
+  //   if (categories.length > 0) {
+  //     setActiveCategory(categories[0].id);
+  //   }
+  // }, [categories]);
 
   useEffect(() => {
     if (categories.length === 0) return;
