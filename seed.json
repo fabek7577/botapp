@@ -1,0 +1,262 @@
+[
+  {
+    "_id": "67da86793a6b9f8def2cdf96",
+    "name": "Nike Air Force 1",
+    "price": 100000,
+    "description": "Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": {
+      "name": "Nike"
+    },
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.006Z"
+  },
+  {
+    "_id": "67da86933a6b9f8def2cdf9b",
+    "name": "Nike Air Force 1",
+    "price": 140000,
+    "description": "Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": {
+      "name": "Nike"
+    },
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.006Z"
+  },
+  {
+    "_id": "67da86963a6b9f8def2cdf9e",
+    "name": "Nike Air Force 1",
+    "price": 170000,
+    "description": "Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": {
+      "name": "Nike"
+    },
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.006Z"
+  },
+  {
+    "_id": "67da86993a6b9f8def2cdfa1",
+    "name": "Nike Air Force 1",
+    "price": 110000,
+    "description": "Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": {
+      "name": "Nike"
+    },
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.006Z"
+  },
+  {
+    "_id": "67da86a23a6b9f8def2cdfa4",
+    "name": "Nike Air Force 1",
+    "price": 230000,
+    "description": "Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": {
+      "name": "Nike"
+    },
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.006Z"
+  },
+  {
+    "_id": "67da86fa064d87efdfee18a7",
+    "name": "Nike Air force 2 Black",
+    "price": 399000,
+    "description": "Cтрана производителя – Германия; Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": null,
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.006Z"
+  },
+  {
+    "_id": "67da8700064d87efdfee18aa",
+    "name": "Nike Air force 2 Black",
+    "price": 329000,
+    "description": "Cтрана производителя – Германия; Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": null,
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.006Z"
+  },
+  {
+    "_id": "67da8703064d87efdfee18ad",
+    "name": "Nike Air force 2 Black",
+    "price": 320000,
+    "description": "Cтрана производителя – Германия; Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": null,
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.006Z"
+  },
+  {
+    "_id": "67da8708064d87efdfee18b0",
+    "name": "Nike Air force 2 Black",
+    "price": 120000,
+    "description": "Cтрана производителя – Германия; Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": null,
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.006Z"
+  },
+  {
+    "_id": "67da870b064d87efdfee18b3",
+    "name": "Nike Air force 2 Black",
+    "price": 520000,
+    "description": "Cтрана производителя – Германия; Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": null,
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.007Z"
+  },
+  {
+    "_id": "67da8735064d87efdfee18b8",
+    "name": "Nike Air force 3 Brown",
+    "price": 199000,
+    "description": "Cтрана производителя – США; Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": null,
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.007Z"
+  },
+  {
+    "_id": "67da8739064d87efdfee18bb",
+    "name": "Nike Air force 3 Brown",
+    "price": 199000,
+    "description": "Cтрана производителя – США; Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": null,
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.007Z"
+  },
+  {
+    "_id": "67da873f064d87efdfee18be",
+    "name": "Nike Air force 3 Brown",
+    "price": 299000,
+    "description": "Cтрана производителя – США; Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": null,
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.007Z"
+  },
+  {
+    "_id": "67da8740064d87efdfee18c1",
+    "name": "Nike Air force 3 Brown",
+    "price": 299000,
+    "description": "Cтрана производителя – США; Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": null,
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.007Z"
+  },
+  {
+    "_id": "67da8746064d87efdfee18c4",
+    "name": "Nike Air force 3 Brown",
+    "price": 209000,
+    "description": "Cтрана производителя – США; Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": null,
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.007Z"
+  },
+  {
+    "_id": "67da8760064d87efdfee18c7",
+    "name": "Nike Air force 4 Red",
+    "price": 250000,
+    "description": "Cтрана производителя – Турция; Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": null,
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.007Z"
+  },
+  {
+    "_id": "67da8764064d87efdfee18ca",
+    "name": "Nike Air force 4 Red",
+    "price": 210000,
+    "description": "Cтрана производителя – Турция; Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": null,
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.007Z"
+  },
+  {
+    "_id": "67da8767064d87efdfee18cd",
+    "name": "Nike Air force 4 Red",
+    "price": 230000,
+    "description": "Cтрана производителя – Турция; Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": null,
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.007Z"
+  },
+  {
+    "_id": "67da876b064d87efdfee18d0",
+    "name": "Nike Air force 4 Red",
+    "price": 280000,
+    "description": "Cтрана производителя – Турция; Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": null,
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.007Z"
+  },
+  {
+    "_id": "67da876e064d87efdfee18d3",
+    "name": "Nike Air force 4 Red",
+    "price": 290000,
+    "description": "Cтрана производителя – Турция; Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": null,
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.007Z"
+  },
+  {
+    "_id": "67da8790064d87efdfee18d8",
+    "name": "Nike Air force 5 Violet",
+    "price": 345000,
+    "description": "Cтрана производителя – Россия; Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": null,
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.007Z"
+  },
+  {
+    "_id": "67da8794064d87efdfee18db",
+    "name": "Nike Air force 5 Violet",
+    "price": 145000,
+    "description": "Cтрана производителя – Россия; Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": null,
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.007Z"
+  },
+  {
+    "_id": "67da8799064d87efdfee18de",
+    "name": "Nike Air force 5 Violet",
+    "price": 575000,
+    "description": "Cтрана производителя – Россия; Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": null,
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.007Z"
+  },
+  {
+    "_id": "67da879d064d87efdfee18e1",
+    "name": "Nike Air force 5 Violet",
+    "price": 595000,
+    "description": "Cтрана производителя – Россия; Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": null,
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.007Z"
+  },
+  {
+    "_id": "67da87a1064d87efdfee18e4",
+    "name": "Nike Air force 5 Violet",
+    "price": 405000,
+    "description": "Cтрана производителя – Россия; Качество – Люкс; Материал – Эко кожа",
+    "image": "https://picsum.photos/300",
+    "category": null,
+    "__v": 0,
+    "createdAt": "2025-03-24T18:33:38.008Z"
+  }
+]
